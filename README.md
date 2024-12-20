@@ -10,4 +10,4 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 
 *Part 1: Scrape Titles and Preview Text from Mars News*
 
-8Part 2: Scrape and Analyze Mars Weather Data*
+*Part 2: Scrape and Analyze Mars Weather Data*
