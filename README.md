@@ -29,3 +29,9 @@ The project demonstrates end-to-end handling, including data collection, transfo
 * Coldest and warmest months (based on average minimum temperature)
 * Months with lowest and highest atmospheric pressure
 * Estimated length of a Martian year (in Earth days)
+**Visualizations**
+* Bar chart: average minimum temperature by month
+* Bar chart: average atmospheric pressure by month
+* Line plot: daily minimum temperatures over time
+
+**Dataset was exported to CSV**
