@@ -14,4 +14,12 @@ The project demonstrates end-to-end handling, including data collection, transfo
   * Preview text
 * Stored results as:
   * List of dictionaries (title, preview)
-  * 
+ 
+**Part 2: Mars Weather Analysis**
+* Scraped Mars temperature data from an HTML table
+* Parsed data using Beautiful Soup
+* Converted data in a Pandas DataFrame
+**Data Processing**
+* Assigned appropriate data types (datetime, int, float)
+* Structured columns:
+  * `id`, `terrestrial_date`, `sol`, `ls`, `month`, `min_temp`, `pressure`
