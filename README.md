@@ -23,3 +23,9 @@ The project demonstrates end-to-end handling, including data collection, transfo
 * Assigned appropriate data types (datetime, int, float)
 * Structured columns:
   * `id`, `terrestrial_date`, `sol`, `ls`, `month`, `min_temp`, `pressure`
+**Analysis Performed**
+* Total number of Martian months
+* Total number of Martian days (sols) in dataset
+* Coldest and warmest months (based on average minimum temperature)
+* Months with lowest and highest atmospheric pressure
+* Estimated length of a Martian year (in Earth days)
